@@ -36,9 +36,9 @@ export const Skills = () => {
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
                         <p>
-  C++ || C# || Python || Java || JavaScript || React.js || Angular<br></br>
-  Spring Boot || ASP.NET || MVC || Ajax || TypeScript || MERN Stack<br></br>
-  MongoDB || SQL || Git || DBeaver PostgreSQL || Kafka
+Python || SQL || Java || C# || JavaScript || TypeScript || React.js || Angular
+Spring Boot || ASP.NET MVC || Ajax || MERN Stack || PySpark || Databricks || Alteryx
+Power BI || Tableau || SQL Server || PostgreSQL || MongoDB || DBeaver || Git || Kafka
 </p>
                       
 <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
