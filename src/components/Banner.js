@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Prashanth Reddy`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "a Data Analyst", "looking out for opportunities" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>A Northwest Missouri State University alumni, I'm currently seeking roles in Data Analyst, Provider Analyst, or Data Engineer. Eager to apply my skills and passion for technology, I bring a strong educational background, Experience and a commitment to innovation to any dynamic team.</p>
+                  <p>A Northwest Missouri State University alumni, I'm currently seeking roles as a Data Analyst, Provider Analyst, or Data Engineer. With hands-on experience in healthcare analytics and a strong foundation in data tools and technologies, I bring technical skill, industry knowledge, and a passion for solving real-world problems to any dynamic team.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
